@@ -11,7 +11,7 @@ public class DisplaySimpleFigureWithJava {
     }
 
     public static void fourstar(){
-	System.out.println("    ****    ")
+	System.out.println("    ****    ");
     } 
 
     public static void stars(){
